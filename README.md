@@ -1,6 +1,9 @@
 # Modeling Protective Action Decision-Making in Earthquakes by Using Explainable Machine Learning and Video Data
-Submitted to Natural Scientific Reports
+Manuscript submitted to Natural Scientific Reports  
 Implemented by Xiaojian Zhang, Department of Civil and Coastal Engineering, University of Florida
+
+# Cite
+Please cite our study in the following format:  
 
 # Required Softwares
 
