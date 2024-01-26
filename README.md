@@ -33,3 +33,9 @@ The code scripts for processing the annotation, modeling development and interpr
 _Preprocessing_Data.ipynb_: preprocessing data, transforming annotations into numeric variables  
 
 _Modeling_Plotting.ipynb_: Train-test data splitting, machine learning model development, MNL model development, performance comparison, variable importance calculation, partial dependence plots generation, and all generating all figures.
+
+# Annotation
+
+An example of using ELAN to annotate protective action behavior is shown in ELAN_demo.png. We cover the video playing box for privacy issues. As we discussed in the paper, for each video, around three (one leader and two followers) decision-makers' behavior were annotated. The behavior, environment changes, and social interactions were identified per second.
+
+
