@@ -38,4 +38,6 @@ _Modeling_Plotting.ipynb_: Train-test data splitting, machine learning model dev
 
 An example of using ELAN to annotate protective action behavior is shown in ELAN_demo.png. We cover the video playing box for privacy issues. As we discussed in the paper, for each video, around three (one leader and two followers) decision-makers' behavior were annotated. The behavior, environment changes, and social interactions were identified per second.
 
+# Acknowledgement
 
+Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
